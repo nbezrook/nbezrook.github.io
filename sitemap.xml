@@ -2,11 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tomotakino.com/index.html</loc>
-    <lastmod>2018-08-01</lastmod>
+    <lastmod>2018-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://tomotakino.com/images/thecolonycomputercode.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://tomotakino.com/the-colony-splash.html</loc>
+    <lastmod>2018-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/biopic_bratling.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/biopic_david.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/biopic_mandy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/biopic_khaos.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/biopic_raven.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/biopic_ramina.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tomotakino.com/album-info.html</loc>
+    <lastmod>2018-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
