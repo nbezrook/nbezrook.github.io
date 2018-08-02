@@ -5,5 +5,8 @@
     <lastmod>2018-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/thecolonycomputercode.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

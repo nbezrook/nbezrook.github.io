@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533187021683">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533188205117">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3935702378" ref="index"/>
+    <file name="index.css" crc="265251308" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,6 +15,9 @@
     <file name="u102-4.png" crc="434097507" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u131-r.png" crc="17641773" ref="index"/>
+    <file name="thecolonycomputercode.jpg" crc="504754264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4068375600" seo="true" mt="1533181897746" redirect="true"/>
+  <file name="index.html" crc="4061116852" seo="true" mt="1533188188392" redirect="true"/>
 </manifest>
