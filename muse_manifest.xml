@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533194157496">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533205720565">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="73552737" ref="index"/>
-    <file name="album-info.css" crc="4193191577" ref="album-info"/>
-    <file name="the-colony-splash.css" crc="191968577" ref="the-colony-splash"/>
+    <file name="index.css" crc="59290262" ref="index"/>
+    <file name="album-info.css" crc="3941579523" ref="album-info"/>
+    <file name="the-colony-splash.css" crc="4242175244" ref="the-colony-splash"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-colony-splash:album-info"/>
@@ -12,49 +12,44 @@
     <file name="museconfig.js" crc="4286661555" ref="index:the-colony-splash:album-info"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:the-colony-splash:album-info"/>
     <file name="require.js" crc="7928878" ref="index:the-colony-splash:album-info"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="the-colony-splash"/>
   </folder>
   <folder name="images">
-    <file name="u102-4.png" crc="434097507" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:the-colony-splash"/>
-    <file name="u131-r.png" crc="17641773" ref="index"/>
+    <file name="u102-4.png" crc="490495997" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u131-r.png" crc="234134724" ref="index"/>
     <file name="thecolonycomputercode.jpg" crc="504754264" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="103574-rocketl.jpg" crc="3843740116" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="biopic_bratling.jpg" crc="261142675" seo="true" ref="the-colony-splash">
-      <caption webpage="the-colony-splash" alt=""/>
-    </file>
-    <file name="biopic_david.jpg" crc="419725231" seo="true" ref="the-colony-splash">
-      <caption webpage="the-colony-splash" alt=""/>
-    </file>
-    <file name="u460_states.png" crc="4150337172" ref="the-colony-splash"/>
-    <file name="u460_states-r.png" crc="444638968" ref="the-colony-splash"/>
-    <file name="biopic_mandy.jpg" crc="138312319" seo="true" ref="the-colony-splash">
-      <caption webpage="the-colony-splash" alt=""/>
-    </file>
-    <file name="biopic_khaos.jpg" crc="339663868" seo="true" ref="the-colony-splash">
-      <caption webpage="the-colony-splash" alt=""/>
-    </file>
-    <file name="u463.png" crc="158711783" ref="the-colony-splash"/>
-    <file name="u463-r.png" crc="396527931" ref="the-colony-splash"/>
-    <file name="biopic_raven.jpg" crc="3776232345" seo="true" ref="the-colony-splash">
-      <caption webpage="the-colony-splash" alt=""/>
-    </file>
-    <file name="biopic_ramina.jpg" crc="35869051" seo="true" ref="the-colony-splash">
-      <caption webpage="the-colony-splash" alt=""/>
-    </file>
-    <file name="u466.png" crc="319776613" ref="the-colony-splash"/>
-    <file name="u466-r.png" crc="3864746745" ref="the-colony-splash"/>
     <file name="u578-4.png" crc="434097507" ref="the-colony-splash"/>
-    <file name="u581-4.png" crc="434097507" ref="the-colony-splash"/>
-    <file name="tvstatic.gif" crc="3926004307" ref="the-colony-splash">
+    <file name="u581-4.png" crc="4120221585" ref="the-colony-splash"/>
+    <file name="midi_cd.gif" crc="44675583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl.gif" crc="4038200702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vcrtapeclr.gif" crc="39564606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skulls.gif" crc="486732383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="headaasmod.gif" crc="153205618" seo="true" ref="the-colony-splash">
+      <caption webpage="the-colony-splash" alt=""/>
+      <caption webpage="the-colony-splash" alt=""/>
+    </file>
+    <file name="futondream.png" crc="4052607624" seo="true" ref="the-colony-splash">
+      <caption webpage="the-colony-splash" alt=""/>
+    </file>
+    <file name="u800-4.png" crc="152089402" ref="the-colony-splash"/>
+    <file name="comp-1.gif" crc="372301988" ref="the-colony-splash">
       <caption webpage="the-colony-splash" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="399078638" seo="true" mt="1533194150958" redirect="true"/>
-  <file name="the-colony-splash.html" crc="183680480" seo="true" mt="1533193690063" redirect="true"/>
-  <file name="album-info.html" crc="13928433" seo="true" mt="1533193333424" redirect="false"/>
+  <file name="index.html" crc="4010471997" seo="true" mt="1533205709559" redirect="true"/>
+  <file name="the-colony-splash.html" crc="4090906205" seo="true" mt="1533203725997" redirect="true"/>
+  <file name="album-info.html" crc="3978407728" seo="true" mt="1533197235739" redirect="true"/>
 </manifest>

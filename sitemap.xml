@@ -8,6 +8,18 @@
     <image:image>
       <image:loc>http://tomotakino.com/images/thecolonycomputercode.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/midi_cd.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/girl.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/vcrtapeclr.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomotakino.com/images/skulls.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://tomotakino.com/the-colony-splash.html</loc>
@@ -15,22 +27,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tomotakino.com/images/biopic_bratling.jpg</image:loc>
+      <image:loc>http://tomotakino.com/images/headaasmod.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomotakino.com/images/biopic_david.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomotakino.com/images/biopic_mandy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomotakino.com/images/biopic_khaos.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomotakino.com/images/biopic_raven.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomotakino.com/images/biopic_ramina.jpg</image:loc>
+      <image:loc>http://tomotakino.com/images/futondream.png</image:loc>
     </image:image>
   </url>
   <url>
