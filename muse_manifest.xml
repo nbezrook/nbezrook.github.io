@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533205720565">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533531747669">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="59290262" ref="index"/>
-    <file name="album-info.css" crc="3941579523" ref="album-info"/>
-    <file name="the-colony-splash.css" crc="4242175244" ref="the-colony-splash"/>
+    <file name="index.css" crc="118654212" ref="index"/>
+    <file name="album-info.css" crc="4183522078" ref="album-info"/>
+    <file name="the-colony-splash.css" crc="4274497903" ref="the-colony-splash"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-colony-splash:album-info"/>
@@ -20,7 +20,7 @@
     <file name="thecolonycomputercode.jpg" crc="504754264" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="103574-rocketl.jpg" crc="3843740116" ref="index">
+    <file name="103574-rocketl.jpg" crc="4213708399" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u578-4.png" crc="434097507" ref="the-colony-splash"/>
@@ -48,8 +48,9 @@
     <file name="comp-1.gif" crc="372301988" ref="the-colony-splash">
       <caption webpage="the-colony-splash" alt=""/>
     </file>
+    <file name="favicon.ico" crc="4010453600" ref="index"/>
   </folder>
-  <file name="index.html" crc="4010471997" seo="true" mt="1533205709559" redirect="true"/>
-  <file name="the-colony-splash.html" crc="4090906205" seo="true" mt="1533203725997" redirect="true"/>
-  <file name="album-info.html" crc="3978407728" seo="true" mt="1533197235739" redirect="true"/>
+  <file name="index.html" crc="11105312" seo="true" mt="1533530645578" redirect="true"/>
+  <file name="the-colony-splash.html" crc="522527194" seo="true" mt="1533209439357" redirect="true"/>
+  <file name="album-info.html" crc="3881719894" seo="true" mt="1533209845929" redirect="true"/>
 </manifest>
