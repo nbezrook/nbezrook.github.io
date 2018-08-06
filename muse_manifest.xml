@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533531747669">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533532704478">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="118654212" ref="index"/>
+    <file name="index.css" crc="201518182" ref="index"/>
     <file name="album-info.css" crc="4183522078" ref="album-info"/>
     <file name="the-colony-splash.css" crc="4274497903" ref="the-colony-splash"/>
   </folder>
@@ -10,7 +10,7 @@
     <file name="museutils.js" crc="340535759" ref="index:the-colony-splash:album-info"/>
     <file name="whatinput.js" crc="86476730" ref="index:the-colony-splash:album-info"/>
     <file name="museconfig.js" crc="4286661555" ref="index:the-colony-splash:album-info"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:the-colony-splash:album-info"/>
+    <file name="jquery.watch.js" crc="51536988" ref="the-colony-splash:album-info"/>
     <file name="require.js" crc="7928878" ref="index:the-colony-splash:album-info"/>
   </folder>
   <folder name="images">
@@ -50,7 +50,7 @@
     </file>
     <file name="favicon.ico" crc="4010453600" ref="index"/>
   </folder>
-  <file name="index.html" crc="11105312" seo="true" mt="1533530645578" redirect="true"/>
+  <file name="index.html" crc="4272304927" seo="true" mt="1533532696810" redirect="true"/>
   <file name="the-colony-splash.html" crc="522527194" seo="true" mt="1533209439357" redirect="true"/>
   <file name="album-info.html" crc="3881719894" seo="true" mt="1533209845929" redirect="true"/>
 </manifest>
