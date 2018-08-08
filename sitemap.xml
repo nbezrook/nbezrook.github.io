@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tomotakino.com/index.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,8 +22,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tomotakino.com/the-colony-splash.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <loc>http://tomotakino.com/thecolony.html</loc>
+    <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,11 +32,5 @@
     <image:image>
       <image:loc>http://tomotakino.com/images/futondream.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://tomotakino.com/album-info.html</loc>
-    <lastmod>2018-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

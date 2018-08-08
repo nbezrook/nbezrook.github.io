@@ -1,16 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533549801019">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533710548054">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="251510288" ref="index"/>
-    <file name="album-info.css" crc="124707351" ref="album-info"/>
-    <file name="the-colony-splash.css" crc="3979711630" ref="the-colony-splash"/>
+    <file name="index.css" crc="187187224" ref="index"/>
+    <file name="thecolony.css" crc="3911888680" ref="thecolony"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-colony-splash:album-info"/>
-    <file name="museutils.js" crc="340535759" ref="index:the-colony-splash:album-info"/>
-    <file name="whatinput.js" crc="86476730" ref="index:the-colony-splash:album-info"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:the-colony-splash:album-info"/>
-    <file name="require.js" crc="7928878" ref="index:the-colony-splash:album-info"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thecolony"/>
+    <file name="museutils.js" crc="340535759" ref="index:thecolony"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thecolony"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:thecolony"/>
+    <file name="require.js" crc="7928878" ref="index:thecolony"/>
   </folder>
   <folder name="images">
     <file name="u102-4.png" crc="490495997" ref="index"/>
@@ -19,8 +18,8 @@
     <file name="thecolonycomputercode.jpg" crc="504754264" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u578-4.png" crc="434097507" ref="the-colony-splash"/>
-    <file name="u581-4.png" crc="4120221585" ref="the-colony-splash"/>
+    <file name="u578-4.png" crc="434097507" ref="thecolony"/>
+    <file name="u581-4.png" crc="4120221585" ref="thecolony"/>
     <file name="midi_cd.gif" crc="44675583" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -33,23 +32,26 @@
     <file name="skulls.gif" crc="486732383" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="headaasmod.gif" crc="153205618" seo="true" ref="the-colony-splash">
+    <file name="headaasmod.gif" crc="153205618" seo="true" ref="thecolony">
       <caption webpage="the-colony-splash" alt=""/>
       <caption webpage="the-colony-splash" alt=""/>
+      <caption webpage="thecolony" alt=""/>
+      <caption webpage="thecolony" alt=""/>
     </file>
-    <file name="futondream.png" crc="4052607624" seo="true" ref="the-colony-splash">
+    <file name="futondream.png" crc="4052607624" seo="true" ref="thecolony">
       <caption webpage="the-colony-splash" alt=""/>
+      <caption webpage="thecolony" alt=""/>
     </file>
-    <file name="u800-4.png" crc="152089402" ref="the-colony-splash"/>
-    <file name="comp-1.gif" crc="372301988" ref="the-colony-splash">
+    <file name="u800-4.png" crc="152089402" ref="thecolony"/>
+    <file name="comp-1.gif" crc="372301988" ref="thecolony">
       <caption webpage="the-colony-splash" alt=""/>
+      <caption webpage="thecolony" alt=""/>
     </file>
     <file name="favicon.ico" crc="4010453600" ref="index"/>
     <file name="stainless_m9.jpg" crc="508850483" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="248413336" seo="true" mt="1533544951801" redirect="true"/>
-  <file name="the-colony-splash.html" crc="3920523364" seo="true" mt="1533533403318" redirect="true"/>
-  <file name="album-info.html" crc="87257835" seo="true" mt="1533533403318" redirect="true"/>
+  <file name="index.html" crc="3955479544" seo="true" mt="1533709061737" redirect="true"/>
+  <file name="thecolony.html" crc="4025379421" seo="true" mt="1533710319539" redirect="true"/>
 </manifest>
