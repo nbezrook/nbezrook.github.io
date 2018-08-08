@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533711009891">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533711387146">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="187187224" ref="index"/>
+    <file name="index.css" crc="3902915434" ref="index"/>
     <file name="thecolony.css" crc="3911888680" ref="thecolony"/>
   </folder>
   <folder name="scripts">
@@ -47,11 +47,11 @@
       <caption webpage="the-colony-splash" alt=""/>
       <caption webpage="thecolony" alt=""/>
     </file>
-    <file name="favicon.ico" crc="4010453600" ref="index:thecolony"/>
+    <file name="favicon.ico" crc="4010453600" ref="index"/>
     <file name="stainless_m9.jpg" crc="508850483" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3955479544" seo="true" mt="1533709061737" redirect="true"/>
-  <file name="thecolony.html" crc="332966956" seo="true" mt="1533710819190" redirect="true"/>
+  <file name="index.html" crc="198521919" seo="true" mt="1533711363251" redirect="true"/>
+  <file name="thecolony.html" crc="3988631228" seo="true" mt="1533711353033" redirect="true"/>
 </manifest>
