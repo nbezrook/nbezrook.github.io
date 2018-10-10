@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1533711617978">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomotakino.com" resolutions="1x" timestamp="1539161163457">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3902915434" ref="index"/>
-    <file name="thecolony.css" crc="3911888680" ref="thecolony"/>
+    <file name="thecolony.css" crc="157637385" ref="thecolony"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thecolony"/>
@@ -33,19 +33,19 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="headaasmod.gif" crc="153205618" seo="true" ref="thecolony">
-      <caption webpage="thecolony" alt=""/>
-      <caption webpage="thecolony" alt=""/>
       <caption webpage="the-colony-splash" alt=""/>
       <caption webpage="the-colony-splash" alt=""/>
+      <caption webpage="thecolony" alt=""/>
+      <caption webpage="thecolony" alt=""/>
     </file>
     <file name="futondream.png" crc="4052607624" seo="true" ref="thecolony">
-      <caption webpage="thecolony" alt=""/>
       <caption webpage="the-colony-splash" alt=""/>
+      <caption webpage="thecolony" alt=""/>
     </file>
     <file name="u800-4.png" crc="152089402" ref="thecolony"/>
     <file name="comp-1.gif" crc="372301988" ref="thecolony">
-      <caption webpage="thecolony" alt=""/>
       <caption webpage="the-colony-splash" alt=""/>
+      <caption webpage="thecolony" alt=""/>
     </file>
     <file name="favicon.ico" crc="4010453600" ref="index:thecolony"/>
     <file name="stainless_m9.jpg" crc="508850483" ref="index">
@@ -53,5 +53,5 @@
     </file>
   </folder>
   <file name="index.html" crc="198521919" seo="true" mt="1533711363251" redirect="true"/>
-  <file name="thecolony.html" crc="3862316927" seo="true" mt="1533711558031" redirect="true"/>
+  <file name="thecolony.html" crc="166088833" seo="true" mt="1539160708326" redirect="true"/>
 </manifest>
